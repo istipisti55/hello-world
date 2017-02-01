@@ -1,2 +1,2 @@
 # hello-world
-Első
+Első branch és próbálkozások a gittel.
